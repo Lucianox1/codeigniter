@@ -14,10 +14,11 @@ class Correo extends CI_Controller
         $this->load->model('correo/Correo_model');
         $email = $this->Correo_model->enviar($this->input->post());
         if ($email == 1) {
-            echo "funciono";
+            //funciono
         }else{
-            echo "no funciono";
+            //no funciono
         }
+        redirect(base_url()."correo");
     }
 		
 	

@@ -8,7 +8,7 @@
 <label for="txtpassword">Contraseña</label>
 <input type="password" class="form-control"  placeholder="Contraseña" name="txtpassword" id="txtpassword" value="">	
 </div>
-<div class="form-group col-xs-12">
+<div class="form-group col-xs-8">
 <label for="txttitulo">Titulo del correo</label>
 <input type="text" class="form-control" placeholder="Titulo del correo" name="txttitulo" id="txttitulo" value="">
 </div>
