@@ -1,4 +1,8 @@
 ###################
+Ejercicios con CodeIgniter
+###################
+En este repositorio ire subiendo ejercicios realizados usando el framework codeigniter.
+###################
 What is CodeIgniter
 ###################
 
